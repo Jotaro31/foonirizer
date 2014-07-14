@@ -1,0 +1,75 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 970px;
+  }
+
+.wrapping{
+  padding:1em;
+}
+
+/*.previewStyle{
+  /*font-family: Georgia,"Times New Roman",Times,serif;*/
+  font-size: 11pt;
+  line-height: 1.4;
+  background:url("http://forums-cdn-styles.firefallthegame.com/community/styles/firefall/xenforo/sources/messagehighlight.png") no-repeat scroll left top rgb(22, 28, 28);
+}*/
+
+.buttons{
+  margin: 10px 5px;
+}
+
+.well{
+  color:#999999;
+}
+
+.bootstrap-select{
+  padding:0;
+}
+
+.nopadding{
+  padding: 0 0 0 15px;
+}
+
+.h1-adjust{
+  margin-left:15px;
+}
+
+.h4-adjust{
+  margin-top:40px;
+}
+
+/*.divider{
+  background:url("http://forums-cdn-styles.firefallthegame.com/community/styles/firefall/xenforo/sources/messagehighlight.png") repeat-y scroll left top rgb(22, 28, 28)!important;
+  color: rgb(220, 220, 220)!important;
+  margin:0!important;
+  padding:9px 0!important;
+  border-bottom:none!important;
+}*/
+
+#ta{
+  height:235px;
+  resize:none;
+}
+
+#preview{
+  height:400px;
+  overflow:auto;
+  
+  font-family: Georgia,"Times New Roman",Times,serif;
+  font-size: 11pt;
+  line-height: 1.4;
+  color: rgb(220, 220, 220);
+  
+}
+
+/*#preview{
+  
+  width:400px;
+  height:300px;
+  
+  padding:5px 10px;
+  margin:10px 0 0 0;
+  
+  
+  
+}*/
